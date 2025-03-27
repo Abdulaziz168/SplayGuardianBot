@@ -1,0 +1,2 @@
+# SplayGuardianBot
+bot block adds
